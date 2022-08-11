@@ -45,7 +45,7 @@
 <div>  
   <a href = "mailto:matheus.botelho40@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-botelho40/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="http://lattes.cnpq.br/9331539968526005" target="_blank"><img src="https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/CNPq_v2017_rgb.jpg/" width="100" target="_blank"></a>
+  <a href="http://lattes.cnpq.br/9331539968526005" target="_blank"><img src="https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/CNPq_v2017_rgb.jpg/" width="87" target="_blank"></a>
  
   ![Snake animation](https://github.com/BotelhoMDS/BotelhoMDS/blob/output/github-contribution-grid-snake.svg)
  
