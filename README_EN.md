@@ -1,4 +1,4 @@
-###### Select Language: **English**, [Portuguese](https://github.com/BotelhoMDS/BotelhoMDS/blob/main/README.md)
+###### Change Language:  [Portuguese](https://github.com/BotelhoMDS/BotelhoMDS/blob/main/README.md)
 ## Hello i'm Matheus Botelho, I'm passionate about innovation, programming and technology!
 - 🔭 I am currently working at Enacom, as a CNPq fellow in the project - “Intelligent Digital Twins for Steel Industry 4.0”
 - 🌱 I am currently studying algorithms and optimization techniques in python and completing my degree in computer engineering (UNIFEI)
