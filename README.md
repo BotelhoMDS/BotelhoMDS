@@ -1,6 +1,6 @@
 
 ###### Change Language:  [English](https://github.com/BotelhoMDS/BotelhoMDS/blob/main/README_EN.md)
-## Olá! eu sou Matheus Botelho, apaixonado por inovação, programação e tecnologia!
+## Olá! Eu sou Matheus Botelho, apaixonado por inovação, programação e tecnologia!
 - 🔭 Atualmente estou trabalhando na Enacom, como bolsista CNPq no projeto - “Gêmeos Digitais Inteligentes para Siderurgia 4.0”
 - 🌱 Atualmente estou estudando algoritmos e técnicas de otimização em python e concluindo a graduação em engenharia da computação (UNIFEI)
 - 👯 Sou voluntário no cardume.org 
