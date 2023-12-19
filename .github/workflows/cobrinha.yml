@@ -6,6 +6,10 @@ on:
   workflow_dispatch:
 
 jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
